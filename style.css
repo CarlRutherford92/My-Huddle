@@ -1,0 +1,180 @@
+body{
+	
+
+}
+
+header{
+	padding-bottom: 90px;
+}
+
+#lil_button{
+	float: right;
+	color: hsl(322, 100%, 66%);
+	border: solid, 1px;
+	background-color: white;
+	border-radius: 5px;
+	border-color: hsl(322, 100%, 66%);
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	opacity: 0.6;
+}
+
+.main_t{
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	font-weight: 700;
+	padding-bottom: 30px;
+
+}
+	
+#first_p{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	padding-bottom: 30px; 
+}
+
+.big_pink{
+	text-align: center;
+	padding-bottom: 50px;
+
+}
+
+.big_button{
+	padding: 15px 65px;
+	color: white;
+	background-color: hsl(322, 100%, 66%);
+	font-family: 'Open Sans', sans-serif;
+	opacity: 0.6;
+    border-radius: 15px;
+	box-shadow: 2px 1px 12px 1px grey;
+
+}
+
+#mockup{
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.sub-head{
+	font-family: 'Poppins', sans-serif;
+	padding-bottom: 2px;
+
+}
+
+.info{
+	font-family: 'Open Sans', sans-serif;
+	opacity: 0.6;
+	padding-top: 5px
+}
+
+#right-pic{
+	position: relative;
+	left: 620px;
+	top: -400px;
+
+}
+
+#para{
+	margin-left: 50px;
+	padding-top: 70px
+
+}
+
+#move-up{
+	position: relative;
+	top: -280px;
+	
+}
+
+footer{
+	max-width: 100%;
+	background-color: hsl(177, 65%, 7%);
+	max-height: 400px;
+	overflow: hidden;
+	padding-top: 100px;
+	
+
+
+}
+
+
+
+.fbox{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	
+	
+}
+
+table{
+	border-collapse: separate;
+	border-spacing: 25px;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+
+
+}
+
+.sub{
+	font-family: 'Poppins', sans-serif;
+	color: white;
+
+}
+
+.fp{
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+}
+
+.logo{
+	position: relative;
+	left: 70px;
+}
+
+.bar{
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 5px;
+	padding-bottom: 5px; 
+	padding-right: 10px;
+
+
+}
+
+.layer_2{
+	opacity: 0.6;
+	transform: scaleX(-1);
+	position: relative;
+	top: -100px;
+	
+
+
+
+}
+
+.butt{
+	padding-top: 7px;
+	padding-bottom: 6px;
+	padding-right: 10px;
+	text-align: center;
+	color: white;
+	background-color: hsl(322, 100%, 66%);
+
+}
+
+.icons{
+	list-style: none;
+	color: white;
+    position: relative;
+    left: -1055px;
+    top: -40px;    
+}
+
+.icons, li{
+	float: right;
+	font-size: 25px;
+	padding-right: 10px;
+}
